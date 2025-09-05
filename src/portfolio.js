@@ -177,7 +177,7 @@ const workExperiences = {
       role: "Software Engineer",
       company: "Rev9 Solutions",
       companylogo: require("./assets/images/rev9.png"),
-      date: "August 2023 – Present",
+      date: "August 2023 – August 2025",
       desc: `I have 2 years of hands-on experience as a MERN Stack Developer, building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
 I specialize in developing responsive and scalable frontends using React with Hooks, Context API, and Redux for efficient state management. On the backend, I’ve built secure RESTful APIs using Express and Node.js, and worked with MongoDB for data modeling and aggregation. My experience also includes authentication using JWT, integrating third-party APIs, deploying applications on cloud platforms (like Vercel and Render), and managing version control with Git.`,
       descBullets: [
